@@ -7,7 +7,7 @@
 
 
 <p style="font-size:36px"><strong>Linkedin Profile</strong></p>
-<p>My LinkedIn <a href="www.linkedin.com/in/karinebueno-quality-assurance-tester">Linkedin profile</a></p>
+<p>My LinkedIn <a href="https://www.linkedin.com/in/karinebueno-quality-assurance-tester">Linkedin profile</a></p>
 
 <p style="font-size:36px"><strong>Skills</strong></p>
 
