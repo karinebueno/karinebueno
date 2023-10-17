@@ -1,8 +1,5 @@
 ### Hi, I'm Karine 👋
 
-<!--
-**karinebueno/karinebueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ##About Me
 I am Karine, currently seeking an opportunity in Quality Assurance (QA) to enhance my skills and knowledge.
 Biomedical Engineering at [Instituto Nacional de Telecomunicações (Inatel)](https://inatel.br/)
