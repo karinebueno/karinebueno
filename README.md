@@ -3,10 +3,6 @@
 <p style="font-size:36px"><strong>About Me</strong></p>
 <p>I am Karine, currently seeking an opportunity in Quality Assurance (QA) to enhance my skills and knowledge.</p>
 <p>Biomedical Engineering at <a href="https://inatel.br/">Instituto Nacional de Telecomunicações (Inatel)</a></p>
-
-
-
-<p style="font-size:36px"><strong>Linkedin Profile</strong></p>
 <p>My LinkedIn <a href="https://www.linkedin.com/in/karinebueno-quality-assurance-tester">Linkedin profile</a></p>
 
 <p style="font-size:36px"><strong>Skills</strong></p>
