@@ -1,13 +1,16 @@
 ### Hi, I'm Karine 👋
 
-##About Me
-I am Karine, currently seeking an opportunity in Quality Assurance (QA) to enhance my skills and knowledge.
-Biomedical Engineering at [Instituto Nacional de Telecomunicações (Inatel)](https://inatel.br/)
+<p style="font-size:36px"><strong>About Me</strong></p>
+<p>I am Karine, currently seeking an opportunity in Quality Assurance (QA) to enhance my skills and knowledge.</p>
+<p>Biomedical Engineering at <a href="https://inatel.br/">Instituto Nacional de Telecomunicações (Inatel)</a></p>
 
-###Linkedin Profile
-(www.linkedin.com/in/karinebueno)
 
-##Skills
+
+<p style="font-size:36px"><strong>Linkedin Profile</strong></p>
+<p>My LinkedIn <a href="www.linkedin.com/in/karinebueno">Linkedin profile</a></p>
+
+<p style="font-size:36px"><strong>Skills</strong></p>
+
 - 🗂️ **Test Pyramids:** Building sturdy foundations for robust testing strategies.
 - 📝 **Writing Test Scenarios:** Crafting narratives for foolproof testing methodologies.
 - ✅ **Test Cases & BDD:** Constructing blueprints for seamless testing procedures.
@@ -25,7 +28,7 @@ Biomedical Engineering at [Instituto Nacional de Telecomunicações (Inatel)](ht
 - 📈 **Software Testing Life Cycle:** Orchestrating seamless orchestration from planning to execution.
 - 🏗️ **Studying Agile Methodologies (Scrum & Waterfall):** Embracing flexibility and adaptability for optimized project management.
 
-##Personal Traits
+<p style="font-size:36px"><strong>Personal Traits</strong></p>
 I am a proactive, determined, and communicative individual, dedicated to personal and professional growth. 🌱💪
 Here are some ideas to get you started:
 
