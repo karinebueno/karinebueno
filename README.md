@@ -26,7 +26,6 @@
 
 <p style="font-size:36px"><strong>Personal Traits</strong></p>
 I am a proactive, determined, and communicative individual, dedicated to personal and professional growth. 🌱💪
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a volunteer project at [Pipoca Ágil](https://www.linkedin.com/company/pipoca-%C3%A1gil/mycompany/verification/)
 
